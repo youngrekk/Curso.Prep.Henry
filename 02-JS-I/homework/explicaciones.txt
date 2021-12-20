@@ -1,0 +1,8 @@
+Variables:
+las variables se pueden explicar como una caja, yo tengo esta caja de nombre "pepito" por ejemplo, adentro
+de esa caja puedo ponerle algo, un lapiz, una manzana,etc.
+En la programacion a las variables le podemos poner strings, numeros o booleans.
+Al momento de crear una se esta DEFINIENDO una variable.
+Ej: pepito = "lapiz"
+Cuando llame a la consola y le pida el valor de pepito me va a saltar: "lapiz"
+        
